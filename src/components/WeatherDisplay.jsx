@@ -1,4 +1,4 @@
-import React from "react";
+
 
 const WeatherDisplay = ({ weather }) => {
   // Step 2: Conditional inline styling
